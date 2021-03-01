@@ -36,3 +36,19 @@ class MyGUI:
 
 my_gui = MyGUI()
 ```
+
+### Professional experience:
+1. stepik.org:
+- JavaScript for beginners with honors 06/27/2020
+- Software Testing: Basic Level with honors 4.09.2018
+2. sololearn:
+- C ++ Tutorial course 09.09.2018
+- SQL Fundamentals course 8.09.2018
+- PHP Tutorial course 7.09.2018
+- HTML Fundamentals course 30.11.2018
+
+### Education: 
+- I have a higher legal education.
+
+### English level:
+- A2
