@@ -1,0 +1,19 @@
+section {
+    margin: auto;
+    width: 630px;
+    height: auto;
+    border: 2px solid gray;
+}
+h3 {
+    margin-left: 10px;
+}
+h2 {
+    text-align: center;
+}
+.contacts {
+    height: 150px;
+}
+img {
+    float: right;
+    margin: 0 10px 15px 0;
+}
