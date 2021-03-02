@@ -1,8 +1,15 @@
+body {
+    margin: 0;
+    font-family: 'MathJax_SansSerif';
+}
+header {
+    color: white;
+}
 section {
     margin: auto;
-    width: 630px;
+    width: 620px;
     height: auto;
-    border: 2px solid gray;
+    border: 2px solid #A7B8BF;
 }
 h3 {
     margin-left: 10px;
@@ -11,9 +18,24 @@ h2 {
     text-align: center;
 }
 .contacts {
-    height: 150px;
+    height: 200px;
+    background: #A7B8BF
 }
 img {
     float: right;
-    margin: 0 10px 15px 0;
+    margin: auto 10px auto 0;
+}
+details {
+    margin: 0 10px;
+}
+pre {
+    background: #F5F5F5;
+}
+.foot {
+    width: 620px;
+    margin: auto;
+    border: 2px solid #A7B8BF;
+    background: #A7B8BF;
+    color: white;
+    text-align: center;
 }
